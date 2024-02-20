@@ -1,0 +1,66 @@
+[2024-02-17 02:11:32] Connection from 192.168.29.164:20860
+[2024-02-17 02:11:32] Connection success from: 192.168.29.164
+[2024-02-17 02:12:19] 192.168.29.164:exit
+[2024-02-20 00:43:11] Connection from 192.168.29.164:53248
+[2024-02-20 00:43:11] Connection success from: 192.168.29.164
+[2024-02-20 00:43:11] !!! Exception: ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2024-02-20 00:44:40] Connection from 192.168.29.164:53275
+[2024-02-20 00:44:40] Connection success from: 192.168.29.164
+[2024-02-20 00:44:43] Invalid login attempt: project / 1234
+[2024-02-20 00:44:48] Invalid login attempt from 192.168.29.164. Remaining attempts: 2
+[2024-02-20 00:45:00] No Channel
+[2024-02-20 00:45:00] !!! Exception: Exception: No channel
+[2024-02-20 00:46:25] Connection from 192.168.29.164:53293
+[2024-02-20 00:46:25] Connection success from: 192.168.29.164
+[2024-02-20 00:46:27] Invalid login attempt: project / 111
+[2024-02-20 00:46:32] Invalid login attempt from 192.168.29.164. Remaining attempts: 2
+[2024-02-20 00:46:45] No Channel
+[2024-02-20 00:46:45] !!! Exception: Exception: No channel
+[2024-02-20 00:46:52] Connection from 192.168.29.164:53294
+[2024-02-20 00:46:52] Connection success from: 192.168.29.164
+[2024-02-20 00:47:04] 192.168.29.164:test
+[2024-02-20 00:47:08] !!! Exception: OSError: Socket is closed
+[2024-02-20 00:56:13] Connection from 192.168.29.164:53366
+[2024-02-20 00:56:13] Connection success from: 192.168.29.164
+[2024-02-20 00:56:17] Invalid login attempt: project / 12345
+[2024-02-20 00:56:22] Invalid login attempt from 192.168.29.164. Remaining attempts: 2
+[2024-02-20 00:56:30] No Channel
+[2024-02-20 00:56:30] !!! Exception: Exception: No channel
+[2024-02-20 00:56:50] Connection from 192.168.29.164:53368
+[2024-02-20 00:56:50] Connection success from: 192.168.29.164
+[2024-02-20 00:59:23] 192.168.29.164:help
+[2024-02-20 01:03:04] !!! Exception: OSError: Socket is closed
+[2024-02-20 01:06:43] Connection from 192.168.29.164:53413
+[2024-02-20 01:06:43] Connection success from: 192.168.29.164
+[2024-02-20 01:08:20] !!! Exception: OSError: Socket is closed
+[2024-02-20 01:08:27] Connection from 192.168.29.164:53437
+[2024-02-20 01:08:27] Connection success from: 192.168.29.164
+[2024-02-20 01:08:37] !!! Exception: OSError: Socket is closed
+[2024-02-20 01:08:43] Connection from 192.168.29.164:53441
+[2024-02-20 01:08:43] Connection success from: 192.168.29.164
+[2024-02-20 01:08:57] !!! Exception: OSError: Socket is closed
+[2024-02-20 01:09:07] Connection from 192.168.29.164:53461
+[2024-02-20 01:09:07] Connection success from: 192.168.29.164
+[2024-02-20 01:09:45] !!! Exception: OSError: Socket is closed
+[2024-02-20 01:09:56] Connection from 192.168.29.164:53473
+[2024-02-20 01:09:56] Connection success from: 192.168.29.164
+[2024-02-20 01:10:09] 192.168.29.164:help
+[2024-02-20 01:13:14] Connection from 192.168.29.164:53576
+[2024-02-20 01:13:14] Connection success from: 192.168.29.164
+[2024-02-20 01:13:23] 192.168.29.164:help
+[2024-02-20 01:14:26] Connection from 192.168.29.164:53597
+[2024-02-20 01:14:26] Connection success from: 192.168.29.164
+[2024-02-20 01:14:34] 192.168.29.164:help
+[2024-02-20 03:11:44] !!! Exception: OSError: Socket is closed
+[2024-02-20 20:39:48] Connection from 192.168.29.167:50231
+[2024-02-20 20:39:48] Connection success from: 192.168.29.167
+[2024-02-20 20:39:59] 192.168.29.167:ello
+[2024-02-20 20:40:10] 192.168.29.167:help
+[2024-02-20 20:40:21] 192.168.29.167:cd ..
+[2024-02-20 20:40:24] 192.168.29.167:cd dir
+[2024-02-20 20:40:28] 192.168.29.167:cd heelp
+[2024-02-20 20:40:32] 192.168.29.167:cd help
+[2024-02-20 20:40:34] 192.168.29.167:help
+[2024-02-20 20:40:50] 192.168.29.167:dir
+[2024-02-20 20:41:23] 192.168.29.167:hee
+[2024-02-20 20:41:26] 192.168.29.167:exit

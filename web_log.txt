@@ -1,0 +1,273 @@
+[2024-02-17 02:04:41] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-17 02:04:48] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-17 02:06:26] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-17 03:44:41] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-17 12:09:31] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-17 12:13:29] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-17 12:15:18] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-17 12:25:39] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-17 12:27:20] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-17 12:33:33] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-17 13:00:46] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-17 13:21:20] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 21:43:24] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 21:44:26] Login Page Request - 192.168.29.164
+[2024-02-18 21:44:49] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 21:51:01] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:23:02] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:24:21] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:28:19] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:37:49] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:38:38] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:39:07] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:39:46] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:41:56] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:47:19] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:47:28] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:52:20] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:54:04] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:55:35] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:57:20] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 22:58:05] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 23:09:35] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 23:10:15] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-18 23:11:46] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-18 23:15:55] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 23:16:12] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 23:22:57] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 23:23:38] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 23:24:29] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 23:25:41] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 23:26:44] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 23:27:16] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-18 23:27:23] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-18 23:28:16] HTTP Request - 192.168.29.164 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-18 23:28:39] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-18 23:29:11] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-18 23:32:35] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-18 23:36:34] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-18 23:36:59] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-18 23:37:29] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-18 23:37:31] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-18 23:37:34] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-18 23:42:58] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-18 23:43:35] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 00:18:21] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 00:23:41] Login Page Request - 192.168.29.1
+[2024-02-19 01:15:49] Login Page Request - 192.168.29.1
+[2024-02-19 01:16:51] Login Page Request - 192.168.29.1
+[2024-02-19 01:16:59] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 01:18:10] Login Page Request - 192.168.29.1
+[2024-02-19 01:22:04] Failed Login Attempt - 192.168.29.1 - Username: None, Password: None
+[2024-02-19 01:22:04] Login Page Request - 192.168.29.1
+[2024-02-19 01:29:44] Failed Login Attempt - 192.168.29.1 - Username: None, Password: None
+[2024-02-19 01:29:44] Login Page Request - 192.168.29.1
+[2024-02-19 01:34:02] Failed Login Attempt - 192.168.29.1 - Username: None, Password: None
+[2024-02-19 01:34:02] Login Page Request - 192.168.29.1
+[2024-02-19 01:39:16] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 01:43:03] Login Page Request - 192.168.29.1
+[2024-02-19 01:44:29] Login Page Request - 192.168.29.1
+[2024-02-19 01:44:38] Successful Login - 192.168.29.1 - Username: fakeuser
+[2024-02-19 01:44:38] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 02:57:13] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 02:57:17] Login Page Request - 192.168.29.1
+[2024-02-19 02:57:19] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 02:57:22] Login Page Request - 192.168.29.1
+[2024-02-19 02:57:24] HTTP Request - 192.168.29.1 - GET / - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 03:27:38] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 03:36:05] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 03:39:55] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 03:40:10] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 03:42:59] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 15:21:43] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 15:21:52] Login Page Request - 192.168.29.1
+[2024-02-19 15:21:58] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 15:22:00] Login Page Request - 192.168.29.1
+[2024-02-19 15:22:04] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 15:23:37] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 15:23:39] Login Page Request - 192.168.29.1
+[2024-02-19 15:24:39] Login Page Request - 192.168.29.1
+[2024-02-19 15:24:41] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 15:24:49] Login Page Request - 192.168.29.1
+[2024-02-19 15:25:29] Login Page Request - 192.168.29.1
+[2024-02-19 15:29:11] Login Page Request - 192.168.29.1
+[2024-02-19 15:29:45] Login Page Request - 192.168.29.1
+[2024-02-19 15:29:47] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 15:30:06] Login Page Request - 192.168.29.1
+[2024-02-19 15:30:08] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 15:30:08] Login Page Request - 192.168.29.1
+[2024-02-19 15:30:16] Failed Login Attempt - 192.168.29.1 - Username: bestyinwza, Password: 1234
+[2024-02-19 15:30:16] Login Page Request - 192.168.29.1
+[2024-02-19 15:39:36] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:07:15] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:07:17] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:07:20] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:07:22] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:07:24] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:07:26] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:07:28] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:07:38] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:12:07] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:12:10] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:12:13] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:12:14] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:12:14] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:12:17] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:12:21] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:12:22] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:12:24] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:12:26] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:12:39] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:13:44] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:13:48] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:13:50] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:13:52] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:13:55] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:13:57] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:13:59] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:18:26] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:18:28] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:18:31] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:18:32] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:18:33] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:30:07] Failed Login Attempt - 192.168.29.1 - Username: bestyinwza, Password: 1234
+[2024-02-19 16:30:07] Login Page Request - 192.168.29.1
+[2024-02-19 16:30:10] Failed Login Attempt - 192.168.29.1 - Username: bestyinwza, Password: 1234
+[2024-02-19 16:30:10] Login Page Request - 192.168.29.1
+[2024-02-19 16:30:12] Failed Login Attempt - 192.168.29.1 - Username: bestyinwza, Password: 1234
+[2024-02-19 16:30:12] Login Page Request - 192.168.29.1
+[2024-02-19 16:30:14] Failed Login Attempt - 192.168.29.1 - Username: bestyinwza, Password: 1234
+[2024-02-19 16:30:14] Login Page Request - 192.168.29.1
+[2024-02-19 16:30:16] Failed Login Attempt - 192.168.29.1 - Username: bestyinwza, Password: 1234
+[2024-02-19 16:30:16] Login Page Request - 192.168.29.1
+[2024-02-19 16:31:21] Failed Login Attempt - 192.168.29.1 - Username: bestyinwza, Password: 1234
+[2024-02-19 16:31:21] Login Page Request - 192.168.29.1
+[2024-02-19 16:32:08] Failed Login Attempt - 192.168.29.1 - Username: fakeuser, Password: passfake
+[2024-02-19 16:32:08] Login Page Request - 192.168.29.1
+[2024-02-19 16:32:26] Successful Login - 192.168.29.1 - Username: fakeuser
+[2024-02-19 16:34:10] Successful Login - 192.168.29.1 - Username: fakeuser
+[2024-02-19 16:34:16] Successful Login - 192.168.29.1 - Username: fakeuser
+[2024-02-19 16:34:21] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 16:34:23] Login Page Request - 192.168.29.1
+[2024-02-19 16:34:32] Successful Login - 192.168.29.1 - Username: fakeuser
+[2024-02-19 17:26:43] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 17:26:45] Login Page Request - 192.168.29.1
+[2024-02-19 17:26:52] Successful Login - 192.168.29.1 - Username: fakeuser
+[2024-02-19 17:41:01] Successful Login - 192.168.29.1 - Username: fakeuser
+[2024-02-19 17:41:03] Successful Login - 192.168.29.1 - Username: fakeuser
+[2024-02-19 17:41:06] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 17:41:08] Login Page Request - 192.168.29.1
+[2024-02-19 17:41:19] Successful Login - 192.168.29.1 - Username: fakeuser
+[2024-02-19 17:47:12] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 17:47:13] Login Page Request - 192.168.29.1
+[2024-02-19 17:47:23] Successful Login - 192.168.29.1 - Username: fakeuser
+[2024-02-19 17:47:23] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 18:04:37] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 18:04:43] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 18:04:45] Login Page Request - 192.168.29.1
+[2024-02-19 18:05:54] Login Page Request - 192.168.29.1
+[2024-02-19 18:06:09] Successful Login - 192.168.29.1 - Username: fakeuser
+[2024-02-19 18:06:09] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 18:06:43] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 18:06:55] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 18:07:53] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 22:02:33] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 22:02:47] Login Page Request - 192.168.29.164
+[2024-02-19 22:03:28] Successful Login - 192.168.29.164 - Username: fakeuser
+[2024-02-19 22:03:29] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 22:04:10] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 22:08:01] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 22:08:14] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 22:08:23] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 22:08:39] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 22:08:53] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 22:08:55] Login Page Request - 192.168.29.1
+[2024-02-19 22:09:04] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-19 22:31:20] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 22:31:49] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 22:33:13] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 22:39:00] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 22:46:11] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 22:50:46] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 22:59:35] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:01:38] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:03:17] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:05:57] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:06:51] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:07:42] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:09:01] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:10:01] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:27:35] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:28:18] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:28:52] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:29:17] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:33:19] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:33:56] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:34:08] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:34:38] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:34:58] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:38:41] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:39:28] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:40:14] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:41:29] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-19 23:42:07] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 00:19:44] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 00:20:29] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 00:23:52] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 00:25:19] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 00:25:52] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 00:26:22] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 00:27:51] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 00:28:52] HTTP Request - 192.168.29.164 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 17:52:41] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-20 17:53:38] Login Page Request - 192.168.29.1
+[2024-02-20 17:54:06] Failed Login Attempt - 192.168.29.1 - Username: fakeuser, Password: fake_pass
+[2024-02-20 17:54:06] Login Page Request - 192.168.29.1
+[2024-02-20 17:54:16] Successful Login - 192.168.29.1 - Username: fakeuser
+[2024-02-20 17:54:16] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-20 23:22:50] HTTP Request - 192.168.29.167 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 23:23:28] HTTP Request - 192.168.29.167 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 23:24:11] HTTP Request - 192.168.29.167 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 23:31:21] HTTP Request - 192.168.29.167 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 23:37:35] HTTP Request - 192.168.29.167 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 23:40:27] HTTP Request - 192.168.29.167 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 23:40:31] Login Page Request - 192.168.29.167
+[2024-02-20 23:44:56] HTTP Request - 192.168.29.167 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 23:51:18] HTTP Request - 192.168.29.167 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 23:51:20] Login Page Request - 192.168.29.167
+[2024-02-20 23:51:24] HTTP Request - 192.168.29.167 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 23:52:18] HTTP Request - 192.168.29.167 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 23:52:23] Login Page Request - 192.168.29.167
+[2024-02-20 23:52:26] HTTP Request - 192.168.29.167 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-20 23:56:43] Login Page Request - 192.168.29.167
+[2024-02-21 00:00:17] HTTP Request - 192.168.29.167 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-21 00:00:20] Login Page Request - 192.168.29.167
+[2024-02-21 00:00:29] Successful Login - 192.168.29.167 - Username: fakeuser
+[2024-02-21 00:00:29] HTTP Request - 192.168.29.167 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-21 00:06:55] HTTP Request - 192.168.29.167 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+[2024-02-21 00:07:11] HTTP Request - 192.168.29.1 - GET - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+[2024-02-21 00:07:13] Login Page Request - 192.168.29.1
+[2024-02-21 00:07:48] Login Page Request - 192.168.29.1
+[2024-02-21 00:08:12] Login Page Request - 192.168.29.1
+[2024-02-21 00:08:37] Login Page Request - 192.168.29.1
+[2024-02-21 00:08:55] Login Page Request - 192.168.29.1
+[2024-02-21 00:09:13] Login Page Request - 192.168.29.1
+[2024-02-21 00:15:46] Login Page Request - 192.168.29.1
+[2024-02-21 00:16:22] Login Page Request - 192.168.29.1
+[2024-02-21 00:16:51] Login Page Request - 192.168.29.1
+[2024-02-21 00:17:57] Login Page Request - 192.168.29.1
+[2024-02-21 00:18:20] Login Page Request - 192.168.29.1
+[2024-02-21 00:22:01] Login Page Request - 192.168.29.1
+[2024-02-21 00:34:55] Login Page Request - 192.168.29.1
+[2024-02-21 00:35:00] Login Page Request - 192.168.29.1
+[2024-02-21 00:35:22] Login Page Request - 192.168.29.1
+[2024-02-21 00:38:10] Login Page Request - 192.168.29.1
+[2024-02-21 00:38:40] Login Page Request - 192.168.29.1
+[2024-02-21 00:39:13] Login Page Request - 192.168.29.1
+[2024-02-21 00:40:07] Login Page Request - 192.168.29.1
+[2024-02-21 00:40:39] Login Page Request - 192.168.29.1
+[2024-02-21 00:43:40] Login Page Request - 192.168.29.1
+[2024-02-21 00:49:32] Login Page Request - 192.168.29.1
+[2024-02-21 00:50:51] Login Page Request - 192.168.29.1
+[2024-02-21 00:50:59] Login Page Request - 192.168.29.1
+[2024-02-21 00:53:44] Login Page Request - 192.168.29.1

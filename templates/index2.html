@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  <title>My Honeypot web</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="{{ url_for('static', filename='vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+
+  <!-- Additional CSS Files -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/fontawesome.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/templatemo-space-dynamic.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/animated.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/owl.css') }}">
+  <!--
+    
+TemplateMo 562 Space Dynamic
+
+https://templatemo.com/tm-562-space-dynamic
+
+-->
+</head>
+
+<body>
+
+  <!-- ***** Preloader Start ***** -->
+  <!-- <div id="js-preloader" class="js-preloader">
+    <div class="preloader-inner">
+      <span class="dot"></span>
+      <div class="dots">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </div> -->
+  <!-- ***** Preloader End ***** -->
+
+  <!-- ***** Header Area Start ***** -->
+  <header class="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <nav class="main-nav">
+            <!-- ***** Logo Start ***** -->
+            <a class = "logo">
+              <h4>My <span>Honeypot >:D</span></h4>
+            </a>
+            <!-- ***** Logo End ***** -->
+            <!-- ***** Menu Start ***** -->
+            <ul class="nav">
+              <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
+              <li class="scroll-to-section"><a href="#honeypot">Honeypot?</a></li>
+              <li class="scroll-to-section"><a href="#type">Type</a></li>
+              <li class="scroll-to-section">
+                <div class="main-red-button">
+                  {% if name %}
+                  <a>Welcome, {{ name }}</a>
+                  {% else %}
+                  <a href="/login">Login</a>
+                  {% endif %}
+                </div>
+              </li>
+            </ul>
+            <a class='menu-trigger'>
+              <span>Menu</span>
+            </a>
+            <!-- ***** Menu End ***** -->
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+  <!-- ***** Header Area End ***** -->
+
+  <div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="row">
+            <div class="col-lg-6 align-self-center">
+              <div class="left-content header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
+                <h6>Welcome to Honeypot</h6>
+                <h2>This is just for <em>My Thesis</em> </h2>
+                <p>And the information obtained will only be used for work purposes.</p>
+                <div class="main-red-button">
+                  {% if name %}
+                  <a href="/congrats">To top secret</a>
+                  {% else %}
+                  <lable>Top secret please login first.</lable>
+                  <a href="/login">Login</a>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+                <img src="{{ url_for('static', filename='assets/images/banner-right-image.png') }}" alt="team meeting">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="honeypot" class="about-us section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 align-self-center  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
+          <div class="left-image">
+            <img src="{{ url_for('static', filename='assets/images/services-left-image.png') }}" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s">
+          <div class="section-heading">
+            <h2><em>What's Honeypot ?</em> </h2>
+          </div>
+          <p>Honeypot คือ กลไกการรักษาความมั่นคงปลอดภัยที่สร้างก้อนกั้นเสมือนจริงเพื่อดึงดูดผู้โจมตี ซึ่งระบบที่โจมตีนั้นจะมีการเก็บข้อมูลจากการโจมตี โดยจะช่วยให้สามารถนำเอาข้อมูลและช่องโหว่ที่พบมาใช้เพื่อศึกษาและปรับปรุงนโยบายความมั่นคงปลอดภัยต่อไปได้ คุณสามารถใช้ honeypot กับทรัพยากรคอมพิวเตอร์ใด ๆ ตั้งแต่ซอฟต์แวร์และเครือข่ายไปจนถึงเซิร์ฟเวอร์ไฟล์และเราเตอร์</p>
+          <label></label>
+          <p>
+            Honeypots เป็นเทคโนโลยีหลอกลวงประเภทหนึ่งที่ช่วยให้คุณเข้าใจรูปแบบพฤติกรรมของผู้โจมตี ทีมรักษาความปลอดภัยสามารถใช้ honeypots เพื่อตรวจสอบการละเมิดความปลอดภัยทางไซเบอร์เพื่อรวบรวมข้อมูลเกี่ยวกับวิธีการทำงานของอาชญากรไซเบอร์ นอกจากนี้ยังลดความเสี่ยงของผลบวกลวงเมื่อเปรียบเทียบกับมาตรการรักษาความปลอดภัยทางไซเบอร์แบบเดิม เนื่องจากไม่น่าจะดึงดูดกิจกรรมที่ชอบด้วยกฎหมายได้
+          </p>
+          <label></label>
+          <p>
+            Honeypots จะแตกต่างกันไปตามรูปแบบการออกแบบและการใช้งาน แต่ทั้งหมดนี้เป็นอุปกรณ์ล่อลวงที่มีจุดประสงค์เพื่อให้ดูเหมือนระบบที่ถูกต้องตามกฎหมายและมีความเสี่ยงในการดึงดูดอาชญากรไซเบอร์
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="type" class="our-services section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="left-image wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
+            <img src="{{ url_for('static', filename='assets/images/about-left-image.png') }}" alt="person graphic">
+          </div>
+        </div>
+
+        <div class="col-lg-8 align-self-center">
+          <h3></h3>
+          <div class="services">
+            <div class="row">
+              <div class="col-lg-6">
+                <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
+                  <div class="right-text">
+                    <h5>ประเภทของ Honeypot </h5>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
+                  <div class="icon">
+                    <img src="{{ url_for('static', filename='assets/images/service-icon-01.png') }}" alt="reporting">
+                  </div>
+                  <div class="right-text">
+                    <h4>Pure honeypots</h4>
+                    <p>เป็นระบบการผลิตที่ครบครัน กิจกรรมของผู้โจมตีจะได้รับการตรวจสอบโดยใช้บั๊กที่ติดตั้งบนลิงก์ของ honeypot ไปยังเครือข่าย ไม่จำเป็นต้องติดตั้งซอฟต์แวร์อื่น แม้ว่าฮันนีพอทบริสุทธิ์จะมีประโยชน์ แต่กลไกการป้องกันที่ซ่อนตัวสามารถมั่นใจได้ด้วยกลไกที่มีการควบคุมมากขึ้น</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.9s">
+                  <div class="icon">
+                    <img src="{{ url_for('static', filename='assets/images/service-icon-02.png') }}" alt="">
+                  </div>
+                  <div class="right-text">
+                    <h4>High-interaction honeypots</h4>
+                    <p>เลียนแบบกิจกรรมของระบบการผลิตที่โฮสต์บริการที่หลากหลาย ดังนั้นผู้โจมตีจึงอาจได้รับอนุญาตให้ใช้บริการจำนวนมากเพื่อเสียเวลาได้ ด้วยการใช้เครื่องเสมือน ทำให้ honeypot หลายเครื่องสามารถโฮสต์บนเครื่องจริงเครื่องเดียวได้ ดังนั้นแม้ว่า honeypot จะเสียหาย แต่ก็สามารถคืนสภาพได้เร็วยิ่งขึ้น โดยทั่วไป honeypot ที่มีปฏิสัมพันธ์สูงจะให้ความปลอดภัยมากกว่าเนื่องจากตรวจพบได้ยาก แต่มีค่าใช้จ่ายสูงในการดูแลรักษา หากไม่มีเครื่องเสมือน จะต้องบำรุงรักษาคอมพิวเตอร์จริงหนึ่งเครื่องสำหรับ honeypot แต่ละเครื่อง ซึ่งอาจมีราคาแพงเกินไป</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="1.1s">
+                  <div class="icon">
+                    <img src="{{ url_for('static', filename='assets/images/service-icon-03.png') }}" alt="">
+                  </div>
+                  <div class="right-text">
+                    <h4>Low-interaction honeypots</h4>
+                    <p>จำลองเฉพาะบริการที่ผู้โจมตีร้องขอบ่อยครั้ง เนื่องจากใช้ทรัพยากรค่อนข้างน้อย เครื่องเสมือนหลายเครื่องจึงสามารถโฮสต์บนระบบฟิสิคัลเดียวได้อย่างง่ายดาย ระบบเสมือนมีเวลาตอบสนองสั้น และต้องใช้โค้ดน้อยลง ช่วยลดความซับซ้อนของการรักษาความปลอดภัยของระบบเสมือน</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.25s">
+          <p>© Copyright 2021 Space Dynamic Co. All Rights Reserved. 
+          
+          <br>Design: <a rel="nofollow" href="https://templatemo.com">TemplateMo</a></p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- Scripts -->
+  <script src="{{ url_for('static', filename='vendor/jquery/jquery.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='assets/js/owl-carousel.js') }}"></script>
+  <script src="{{ url_for('static', filename='assets/js/animation.js') }}"></script>
+  <script src="{{ url_for('static', filename='assets/js/imagesloaded.js') }}"></script>
+  <script src="{{ url_for('static', filename='assets/js/templatemo-custom.js') }}"></script>
+
+</body>
+</html>
